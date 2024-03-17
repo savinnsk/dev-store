@@ -24,12 +24,11 @@ export function Header() {
           <ShoppingBag className='h-4 w-4' />
           <span>Carrinho (0)</span>
         </div>
-        
-          
-        <div className='w-px h-4 bg-zinc-700'/>
+
+        <div className='h-4 w-px bg-zinc-700' />
 
         <Link href='/' className='flex items-center gap-2 hover:underline'>
-          <span>Conta</span> 
+          <span>Conta</span>
           <Image
             src='https://github.com/savinnsk.png'
             className='h-6 w-6 rounded-full'
