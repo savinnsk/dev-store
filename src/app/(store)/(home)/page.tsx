@@ -49,7 +49,7 @@ export default function Home() {
       >
         <Image
           className='mt-auto transition-transform duration-500 group-hover:scale-105'
-          src='/moletom-never-stop-learn.png'
+          src='/moletom-never-stop-learning.png'
           width={920}
           height={920}
           quality={100}
